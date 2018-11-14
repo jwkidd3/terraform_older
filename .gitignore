@@ -1,0 +1,15 @@
+# Compiled files
+*.tfstate
+*.tfstate.backup
+
+# Module directory
+.terraform/
+Notes.md
+
+*.tfvars
+*terraform.tfstate*
+*.terraform.tfstate.lock.info
+~*.pptx
+__*.*
+.DS_Store
+demo/
